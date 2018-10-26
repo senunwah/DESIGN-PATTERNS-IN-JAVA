@@ -19,6 +19,14 @@ public class TestComposiePattern {
         child1.setEndTag("</p>");
         child1.setTagBody("Testing html tag library");
         pl.addChildTag(child1);
+        
+        child1 = new HtmlElement("<p>");
+        child1.setStartTag("<p>");
+        child1.setEndTag("</p>");
+        child1.setTagBody("Paragraph 2");
+        pl.addChildTag(child1);
+        
+        parentTag.generateHtml();
     }
     
 }
