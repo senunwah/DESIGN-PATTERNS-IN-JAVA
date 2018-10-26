@@ -33,7 +33,7 @@ public class HtmlParentElement extends HtmlTag {
 
     @Override
     public void setStartTag(String tag) {
-        this.tagname = tag;
+        this.startTag = tag;
     }
 
     @Override
@@ -54,7 +54,7 @@ public class HtmlParentElement extends HtmlTag {
     
     @Override
     public List<HtmlTag> getChildren(){
-        return this.childrenTag;
+        return childrenTag;
     }
     
     @Override

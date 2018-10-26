@@ -10,7 +10,7 @@ public class TestComposiePattern {
         
         HtmlTag pl = new HtmlParentElement("<html>");
         pl.setStartTag("<body>");
-        pl.setEndTag("</html>");
+        pl.setEndTag("</body>");
         
         parentTag.addChildTag(pl);
         
