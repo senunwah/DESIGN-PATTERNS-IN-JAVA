@@ -3,10 +3,10 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/Users/Stephen/Documents/NetBeansProjects/DESIGN%20PATTERNS/src/Facade_Pattern/TestFacade.java</file>
-            <file>file:/C:/Users/Stephen/Documents/NetBeansProjects/DESIGN%20PATTERNS/src/Facade_Pattern/ScheduleServer.java</file>
-            <file>file:/C:/Users/Stephen/Documents/NetBeansProjects/DESIGN%20PATTERNS/src/Facade_Pattern/ScheduleServerInterface.java</file>
-            <file>file:/C:/Users/Stephen/Documents/NetBeansProjects/DESIGN%20PATTERNS/src/Facade_Pattern/ScheduleServerFacade.java</file>
+            <file>file:/C:/Users/Stephen/Documents/NetBeansProjects/DESIGN%20PATTERNS/src/Composite_Design_Pattern/HtmlTag.java</file>
+            <file>file:/C:/Users/Stephen/Documents/NetBeansProjects/DESIGN%20PATTERNS/src/Composite_Design_Pattern/TestComposiePattern.java</file>
+            <file>file:/C:/Users/Stephen/Documents/NetBeansProjects/DESIGN%20PATTERNS/src/Composite_Design_Pattern/HtmlElement.java</file>
+            <file>file:/C:/Users/Stephen/Documents/NetBeansProjects/DESIGN%20PATTERNS/src/Composite_Design_Pattern/HtmlParentElement.java</file>
         </group>
     </open-files>
 </project-private>
